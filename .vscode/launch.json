@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cafeteria",
+            "request": "launch",
+            "mainClass": "com.bcopstein.Cafeteria",
+            "projectName": "Cafateria"
+        }
+    ]
+}
